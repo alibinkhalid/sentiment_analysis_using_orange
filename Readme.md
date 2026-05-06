@@ -75,6 +75,9 @@ The original text is preserved, while a processed internal representation is cre
   - neutral,
   - compound (overall sentiment score).
 
+![Sentiment Analysis](Sentiment_Analysis.png) 
+
+
 ### Step 4 – Visual Exploration
 - **Data Table** was used to inspect sentiment scores at the comment level.
 - **Distributions** and **Box Plot** widgets were used to analyse aggregate sentiment behaviour.
